@@ -1,37 +1,28 @@
-# JupyterLite Demo
+# Mechanical Vibrations – companion notebooks (BSc 2, Centrale Nantes)
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+Interactive notebooks with animations for the tutorials of the *Mechanical Vibrations* course
+(Bachelor of Science in Engineering, 2nd year, Centrale Nantes).
+They run directly in the browser (computer, tablet or phone) with [JupyterLite](https://jupyterlite.readthedocs.io): nothing to install.
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+➡️ **https://simonjessy.github.io/vibrations-notebooks-BSC2-ECN/**
 
-## ✨ Try it in your browser ✨
+| Tutorial | Notebook | Statement |
+|---|---|---|
+| 1 – Free vibration of a 1-DoF system (undamped) | [TD1-freeUndamped](https://simonjessy.github.io/vibrations-notebooks-BSC2-ECN/notebooks/index.html?path=TD1-freeUndamped.ipynb) | [PDF](content/statements/TD1-freeUndamped.pdf) |
+| 2 – Free vibration of a 1-DoF system (damped) | [TD2-freeDamped](https://simonjessy.github.io/vibrations-notebooks-BSC2-ECN/notebooks/index.html?path=TD2-freeDamped.ipynb) | [PDF](content/statements/TD2-freeDamped.pdf) |
+| 3 – Forced vibration of a 1-DoF system | [TD3-forced](https://simonjessy.github.io/vibrations-notebooks-BSC2-ECN/notebooks/index.html?path=TD3-forced.ipynb) | [PDF](content/statements/TD3-forced.pdf) |
+| 4 – Free vibration of an N-DoF system (undamped) | [TD4-freeUndamped](https://simonjessy.github.io/vibrations-notebooks-BSC2-ECN/notebooks/index.html?path=TD4-freeUndamped.ipynb) | [PDF](content/statements/TD4-freeUndamped.pdf) |
+| 5 – Forced vibration of an N-DoF system | [TD5-forced](https://simonjessy.github.io/vibrations-notebooks-BSC2-ECN/notebooks/index.html?path=TD5-forced.ipynb) | [PDF](content/statements/TD5-forced.pdf) |
 
-➡️ **https://jupyterlite.github.io/demo**
+## How to use
 
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
+1. Open the link of the tutorial (or scan the QR code printed on the statement).
+2. Run all the cells (menu *Run → Run All Cells*); the first run takes a few seconds (Python loads in the browser).
+3. Change the parameters with the sliders below each figure and press *Play*.
 
-## Requirements
+Changes you make are stored in your browser only.
 
-JupyterLite is being tested against modern web browsers:
+## Technical notes
 
-- Firefox 90+
-- Chromium 89+
-
-## Deploy your JupyterLite website on GitHub Pages
-
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
-
-## Further Information and Updates
-
-For more info, keep an eye on the JupyterLite documentation:
-
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
-
-This template provides the Pyodide kernel (`jupyterlite-pyodide-kernel`), the JavaScript kernel (`jupyterlite-javascript-kernel`), and the p5 kernel (`jupyterlite-p5-kernel`), along with other
-optional utilities and extensions to make the JupyterLite experience more enjoyable. See the
-[`requirements.txt` file](requirements.txt) for a list of all the dependencies provided.
-
-For a template based on the Xeus kernel, see the [`jupyterlite/xeus-python-demo` repository](https://github.com/jupyterlite/xeus-python-demo)
-
-
+Site built with the [jupyterlite/demo](https://github.com/jupyterlite/demo) template and deployed by GitHub Actions on every push to `main`.
+Notebooks and statements are in `content/`.
