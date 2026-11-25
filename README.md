@@ -14,6 +14,12 @@ They run directly in the browser (computer, tablet or phone) with [JupyterLite](
 | 4 – Free vibration of an N-DoF system (undamped) | [TD4-freeUndamped](https://simonjessy.github.io/vibrations-notebooks-BSC2-ECN/notebooks/index.html?path=TD4-freeUndamped.ipynb) | [PDF](content/statements/TD4-freeUndamped.pdf) |
 | 5 – Forced vibration of an N-DoF system | [TD5-forced](https://simonjessy.github.io/vibrations-notebooks-BSC2-ECN/notebooks/index.html?path=TD5-forced.ipynb) | [PDF](content/statements/TD5-forced.pdf) |
 
+## Lecture notebooks
+
+| Chapter | Notebook |
+|---|---|
+| 3 – Modal analysis | [Lecture3-modalAnalysis](https://simonjessy.github.io/vibrations-notebooks-BSC2-ECN/notebooks/index.html?path=Lecture3-modalAnalysis.ipynb) |
+
 ## How to use
 
 1. Open the link of the tutorial (or scan the QR code printed on the statement).
