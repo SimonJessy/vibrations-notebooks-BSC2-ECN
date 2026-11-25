@@ -1,6 +1,6 @@
-# Mechanical Vibrations – companion notebooks (BSc 2, Centrale Nantes)
+# Vibrations – companion notebooks (BSc 2, Centrale Nantes)
 
-Interactive notebooks with animations for the tutorials of the *Mechanical Vibrations* course
+Interactive notebooks with animations for the tutorials of the *Vibrations* course
 (Bachelor of Science in Engineering, 2nd year, Centrale Nantes).
 They run directly in the browser (computer, tablet or phone) with [JupyterLite](https://jupyterlite.readthedocs.io): nothing to install.
 
