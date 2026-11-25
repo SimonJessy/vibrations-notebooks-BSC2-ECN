@@ -8,11 +8,11 @@ They run directly in the browser (computer, tablet or phone) with [JupyterLite](
 
 | Tutorial | Notebook | Statement |
 |---|---|---|
-| 1 – Free vibration of a 1-DoF system (undamped) | [TD1-freeUndamped](https://simonjessy.github.io/vibrations-notebooks-BSC2-ECN/notebooks/index.html?path=TD1-freeUndamped.ipynb) | [PDF](content/statements/TD1-freeUndamped.pdf) |
-| 2 – Free vibration of a 1-DoF system (damped) | [TD2-freeDamped](https://simonjessy.github.io/vibrations-notebooks-BSC2-ECN/notebooks/index.html?path=TD2-freeDamped.ipynb) | [PDF](content/statements/TD2-freeDamped.pdf) |
-| 3 – Forced vibration of a 1-DoF system | [TD3-forced](https://simonjessy.github.io/vibrations-notebooks-BSC2-ECN/notebooks/index.html?path=TD3-forced.ipynb) | [PDF](content/statements/TD3-forced.pdf) |
-| 4 – Free vibration of an N-DoF system (undamped) | [TD4-freeUndamped](https://simonjessy.github.io/vibrations-notebooks-BSC2-ECN/notebooks/index.html?path=TD4-freeUndamped.ipynb) | [PDF](content/statements/TD4-freeUndamped.pdf) |
-| 5 – Forced vibration of an N-DoF system | [TD5-forced](https://simonjessy.github.io/vibrations-notebooks-BSC2-ECN/notebooks/index.html?path=TD5-forced.ipynb) | [PDF](content/statements/TD5-forced.pdf) |
+| 1 – Free vibration of a 1-DoF system (undamped) | [Tutorial1-freeUndamped](https://simonjessy.github.io/vibrations-notebooks-BSC2-ECN/notebooks/index.html?path=Tutorial1-freeUndamped.ipynb) | [PDF](content/statements/Tutorial1-freeUndamped.pdf) |
+| 2 – Free vibration of a 1-DoF system (damped) | [Tutorial2-freeDamped](https://simonjessy.github.io/vibrations-notebooks-BSC2-ECN/notebooks/index.html?path=Tutorial2-freeDamped.ipynb) | [PDF](content/statements/Tutorial2-freeDamped.pdf) |
+| 3 – Forced vibration of a 1-DoF system | [Tutorial3-forced](https://simonjessy.github.io/vibrations-notebooks-BSC2-ECN/notebooks/index.html?path=Tutorial3-forced.ipynb) | [PDF](content/statements/Tutorial3-forced.pdf) |
+| 4 – Free vibration of an N-DoF system (undamped) | [Tutorial4-freeUndamped](https://simonjessy.github.io/vibrations-notebooks-BSC2-ECN/notebooks/index.html?path=Tutorial4-freeUndamped.ipynb) | [PDF](content/statements/Tutorial4-freeUndamped.pdf) |
+| 5 – Forced vibration of an N-DoF system | [Tutorial5-forced](https://simonjessy.github.io/vibrations-notebooks-BSC2-ECN/notebooks/index.html?path=Tutorial5-forced.ipynb) | [PDF](content/statements/Tutorial5-forced.pdf) |
 
 ## Lecture notebooks
 
